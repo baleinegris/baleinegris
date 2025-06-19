@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world!
 
 <!--
 **baleinegris/baleinegris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```bash
+baleinegris@Tycho:~$ cat intro.txt
+"Hi I'm Baleinegris! I'm currently studying Computer Science,
+Data Science, and Mathematics at the University of Toronto!
+I'm interested in coding, statistics, and the ethics of computer
+science. In my spare time I like cooking, reading, and gaming :)"
+```
+
+Languages:
