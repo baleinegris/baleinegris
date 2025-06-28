@@ -23,9 +23,11 @@ science. In my spare time I like cooking, reading, and gaming :)
 </div>
  
 ## Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,java,html,css)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,html,css">
+
 ## Technologies:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,fastapi,flask,pytorch,sklearn,github,docker,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,fastapi,flask,pytorch,sklearn,github,docker,linux">
+
 ## Tools I'm learning
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,redis,go,kafka)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=kubernetes,redis,go,kafka">
 
