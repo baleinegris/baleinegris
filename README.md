@@ -29,5 +29,5 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,fastapi,flask,pytorch,sklearn,github,docker,linux">
 
 ## Tools I'm learning
-<img src="https://skillicons.dev/icons?i=kubernetes,redis,go,kafka">
+<img src="https://skillicons.dev/icons?i=kubernetes,redis,go,kafka,nginx,raspberrypi">
 
