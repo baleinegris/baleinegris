@@ -23,11 +23,32 @@ science. In my spare time I like cooking, reading, and gaming :)
 </div>
  
 ## Languages:
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,html,css">
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,go,java,html,css">
 
-## Technologies:
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nestjs,fastapi,flask,pytorch,sklearn,github,docker,linux">
+## Technologies
 
-## Tools I'm learning
-<img src="https://skillicons.dev/icons?i=kubernetes,redis,go,kafka,nginx,raspberrypi">
+<table style="margin-top: -25px;">
 
+<tr>
+<td>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,threejs" />
+
+</td>
+<td>
+
+### Backend/ML
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,flask,redis,pytorch,sklearn" />
+
+</td>
+<td>
+
+<td>
+
+### Deployment/Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
+
+</td>
+</tr>
+</table>
