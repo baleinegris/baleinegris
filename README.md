@@ -24,12 +24,14 @@ science. In my spare time I like cooking, reading, and gaming :)
  
 ## Languages:
 <img src="https://skillicons.dev/icons?i=python,js,ts,c,go,java,html,css">
+
 ## Technologies
 
 <table style="margin-top: -25px;">
 
 <tr>
 <td>
+
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,threejs" />
 
@@ -41,6 +43,7 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 </td>
 <td>
+
 ### Deployment/Orchestration
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
 
