@@ -44,8 +44,6 @@ science. In my spare time I like cooking, reading, and gaming :)
 </td>
 <td>
 
-<td>
-
 ### Deployment/Orchestration
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
 
