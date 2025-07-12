@@ -33,19 +33,18 @@ science. In my spare time I like cooking, reading, and gaming :)
 <td>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,threejs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,vite,tailwind,threejs" />
 
 </td>
 <td>
 
 ### Backend/ML
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,flask,redis,pytorch,sklearn" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,fastapi,flask,redis,pytorch,sklearn,langchain"/>
 </td>
 <td>
 
 ### Deployment/Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
 
 </td>
 </tr>
