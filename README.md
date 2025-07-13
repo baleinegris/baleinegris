@@ -33,19 +33,19 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Frontend
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react" style="display: inline; vertical-align: middle;" /> React
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react" /> React
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vite" style="display: inline; vertical-align: middle;" /> Vite
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vite" /> Vite
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" style="display: inline; vertical-align: middle;" /> Tailwind
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" /> Tailwind
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" style="display: inline; vertical-align: middle;" /> ThreeJS
+<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" /> ThreeJS
 </div>
 
 </td>
@@ -53,23 +53,23 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Backend
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" style="display: inline; vertical-align: middle;" /> NestJS
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" /> NestJS
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" style="display: inline; vertical-align: middle;" /> FastAPI
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" /> FastAPI
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=flask" style="display: inline; vertical-align: middle;" /> Flask
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flask" /> Flask
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" style="display: inline; vertical-align: middle;" /> Redis
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" /> Redis
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" style="display: inline; vertical-align: middle;" /> Kafka
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" /> Kafka
 </div>
 
 </td>
@@ -77,27 +77,27 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Machine Learning
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" style="display: inline; vertical-align: middle;" /> PyTorch
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" /> PyTorch
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" style="display: inline; vertical-align: middle;" /> Scikit-Learn
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" /> Scikit-Learn
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" style="display: inline; vertical-align: middle;" /> Hugging Face
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" /> Hugging Face
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" style="display: inline; vertical-align: middle;" /> LangChain
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" /> LangChain
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" style="display: inline; vertical-align: middle;" /> OpenAI
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" /> OpenAI
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" style="display: inline; vertical-align: middle;" /> Qdrant
+<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" /> Qdrant
 </div>
 
 </td>
@@ -107,19 +107,19 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Orchestration
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" style="display: inline; vertical-align: middle;" /> Docker
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" /> Docker
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" style="display: inline; vertical-align: middle;" /> Kubernetes
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" /> Kubernetes
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" style="display: inline; vertical-align: middle;" /> Nginx
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" /> Nginx
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github" style="display: inline; vertical-align: middle;" /> GitHub
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" /> GitHub
 </div>
 
 </td>
@@ -127,11 +127,11 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Testing
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jest" style="display: inline; vertical-align: middle;" /> Jest
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jest" /> Jest
 </div>
 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" style="display: inline; vertical-align: middle;" /> Pytest
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" /> Pytest
 </div>
 
 </td>
@@ -139,10 +139,10 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ### Operating Systems 
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" style="display: inline; vertical-align: middle;" /> Ubuntu
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" /> Ubuntu
 </div>
 <div>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" style="display: inline; vertical-align: middle;" /> Raspberry Pi
+<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" /> Raspberry Pi
 </div>
 
 </td>
