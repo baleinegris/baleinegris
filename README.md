@@ -82,6 +82,8 @@ science. In my spare time I like cooking, reading, and gaming :)
 ### Operating Systems 
 <p><img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" align="middle" /> Ubuntu</p>
 <p><img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" align="middle" /> Raspberry Pi</p>
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=windows" align="middle" /> Windows</p>
+
 
 </td>
 </tr>
