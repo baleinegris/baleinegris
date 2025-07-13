@@ -75,6 +75,7 @@ science. In my spare time I like cooking, reading, and gaming :)
 ### Testing
 <p><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" align="middle" /> Jest</p>
 <p><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" align="middle" /> Pytest</p>
+<p><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" align="middle" /> Postman</p>
 
 </td>
 <td valign="top">
