@@ -27,25 +27,127 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ## Technologies
 
-<table style="margin-top: -25px;">
+<div style="display:flex; align-items:flex-start; gap:40px;">
 
-<tr>
-<td>
+<div style="display:grid">
 
 ### Frontend
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,next,vite,tailwind,threejs" />
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react" style="display: inline; vertical-align: middle;" /> React
+</div>
 
-</td>
-<td>
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vite" style="display: inline; vertical-align: middle;" /> Vite
+</div>
 
-### Backend/ML
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,fastapi,flask,redis,pytorch,sklearn,langchain"/>
-</td>
-<td>
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" style="display: inline; vertical-align: middle;" /> Tailwind
+</div>
 
-### Deployment/Orchestration
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,kafka,nginx,github,raspberrypi" />
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" style="display: inline; vertical-align: middle;" /> ThreeJS
+</div>
 
-</td>
-</tr>
-</table>
+</div>
+
+<div style="display:grid">
+
+### Backend
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" style="display: inline; vertical-align: middle;" /> NestJS
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" style="display: inline; vertical-align: middle;" /> FastAPI
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flask" style="display: inline; vertical-align: middle;" /> Flask
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=redis" style="display: inline; vertical-align: middle;" /> Redis
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" style="display: inline; vertical-align: middle;" /> Kafka
+</div>
+
+</div>
+
+<div style="display:grid">
+
+### Machine Learning
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" style="display: inline; vertical-align: middle;" /> PyTorch
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" style="display: inline; vertical-align: middle;" /> Scikit-Learn
+</div>
+
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" style="display: inline; vertical-align: middle;" /> Hugging Face
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" style="display: inline; vertical-align: middle;" /> LangChain
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" style="display: inline; vertical-align: middle;" /> OpenAI
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" style="display: inline; vertical-align: middle;" /> Qdrant
+</div>
+
+</div>
+
+<div style="display:grid">
+
+### Orchestration
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker" style="display: inline; vertical-align: middle;" /> Docker
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" style="display: inline; vertical-align: middle;" /> Kubernetes
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" style="display: inline; vertical-align: middle;" /> Nginx
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" style="display: inline; vertical-align: middle;" /> GitHub
+</div>
+
+</div>
+
+<div style="display:grid">
+
+### Testing
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jest" style="display: inline; vertical-align: middle;" /> Jest
+</div>
+
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" style="display: inline; vertical-align: middle;" /> Pytest
+</div>
+
+
+</div>
+<div style="display:grid">
+
+### Operating Systems 
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" style="display: inline; vertical-align: middle;" /> Ubuntu
+</div>
+<div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" style="display: inline; vertical-align: middle;" /> Raspberry Pi
+</div>
+</div>
+
+</div>
