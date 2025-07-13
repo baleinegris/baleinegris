@@ -27,9 +27,9 @@ science. In my spare time I like cooking, reading, and gaming :)
 
 ## Technologies
 
-<div style="display:flex; align-items:flex-start; gap:40px;">
-
-<div style="display:grid">
+<table>
+<tr>
+<td valign="top">
 
 ### Frontend
 <div>
@@ -48,9 +48,8 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=threejs" style="display: inline; vertical-align: middle;" /> ThreeJS
 </div>
 
-</div>
-
-<div style="display:grid">
+</td>
+<td valign="top">
 
 ### Backend
 <div>
@@ -73,9 +72,8 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" style="display: inline; vertical-align: middle;" /> Kafka
 </div>
 
-</div>
-
-<div style="display:grid">
+</td>
+<td valign="top">
 
 ### Machine Learning
 <div>
@@ -85,7 +83,6 @@ science. In my spare time I like cooking, reading, and gaming :)
 <div>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" style="display: inline; vertical-align: middle;" /> Scikit-Learn
 </div>
-
 
 <div>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" style="display: inline; vertical-align: middle;" /> Hugging Face
@@ -103,9 +100,10 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" style="display: inline; vertical-align: middle;" /> Qdrant
 </div>
 
-</div>
-
-<div style="display:grid">
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 ### Orchestration
 <div>
@@ -124,9 +122,8 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" style="display: inline; vertical-align: middle;" /> GitHub
 </div>
 
-</div>
-
-<div style="display:grid">
+</td>
+<td valign="top">
 
 ### Testing
 <div>
@@ -137,9 +134,8 @@ science. In my spare time I like cooking, reading, and gaming :)
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" style="display: inline; vertical-align: middle;" /> Pytest
 </div>
 
-
-</div>
-<div style="display:grid">
+</td>
+<td valign="top">
 
 ### Operating Systems 
 <div>
@@ -148,6 +144,7 @@ science. In my spare time I like cooking, reading, and gaming :)
 <div>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" style="display: inline; vertical-align: middle;" /> Raspberry Pi
 </div>
-</div>
 
-</div>
+</td>
+</tr>
+</table>
